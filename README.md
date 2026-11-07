@@ -29,6 +29,11 @@ git clone https://github.com/AsterLakDeveloper/Nexcent_landing_page.git
 
 Open index.html in your browser.
 
+### Nexcent Landing Page
+A landing page built with HTML and CSS.
+
+[Live Demo](https://asterlakdeveloper.github.io/Nexcent_landing_page/)
+
 **Author**
 
 AsterLakDeveloper
