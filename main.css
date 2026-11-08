@@ -561,3 +561,11 @@ footer .container {
   white-space: nowrap;
   border-radius: 6px;
 }
+
+.a_content_footer:visited {
+  color: white
+}
+
+.a_content_footer {
+  color: white
+}
